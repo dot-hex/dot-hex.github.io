@@ -1,3 +1,4 @@
 
-* [Default65](Keyboards/Default65.md)
+* [Default65](Default65.md)
 * [DM80](Keyboards/DM80.md)
+* [MY60](MY60.md)
