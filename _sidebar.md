@@ -5,3 +5,9 @@
     * [MY60](/PersonalDesigns/MY60.md)
 * Misc 
     * [ab-tk PCB](/Misc/ab-tk.md)
+* [Builds](/Builds/)
+    * MX
+        * [Purple Keyboard](/Builds/MX/PurpleKeyboard.md)
+    * Topre
+        * [XRF](/Builds/Topre/XRF.md)
+    
