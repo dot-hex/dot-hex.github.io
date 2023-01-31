@@ -1,7 +1,6 @@
 # dot-hex 
 (Also known as Yeggs)
 
-## Overview
 
 I design and build custom mechanical keyboards.
 
