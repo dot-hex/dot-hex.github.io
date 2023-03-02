@@ -21,4 +21,4 @@ Currently this board is in the **Interest Check** stage. It will be sold by [Key
 
 Photos by Keyspensory's product photographer and I
 
-pagination.nextText
+
