@@ -4,7 +4,7 @@
 
 ## General Information
 
-A 65 percent with a see through polycarbonate blocker. Inspired by the TGR 910 and the Perry's MC65, as well as the OTD Corsa. With a low front height and a brass internal weight to help acoustics, this board is close to what many might consider a default.
+A 65 percent with a see through polycarbonate blocker. Inspired by the TGR 910 and Perry's MC65, as well as the OTD Corsa. With a low front height and a brass internal weight to help acoustics, this board is close to what many might consider a default.
 
 Currently this board is in the **Interest Check** stage. It will be sold by [Keyspensory](keyspensory.store), pending enough interest.
 
